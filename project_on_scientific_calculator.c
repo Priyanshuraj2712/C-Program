@@ -654,3 +654,7 @@ goto E;
 break;
 default:
 printf("Invalid option");
+      }
+    }
+  }
+}
